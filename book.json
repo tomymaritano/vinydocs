@@ -1,0 +1,22 @@
+{
+  "title": "Viny Documentation",
+  "description": "Official documentation for Viny - A professional Markdown note editor",
+  "author": "Tomas Maritano",
+  "language": "en",
+  "plugins": [
+    "search",
+    "highlight",
+    "code",
+    "expandable-chapters",
+    "theme-default"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
